@@ -1,23 +1,9 @@
-<style>
-#demoFont {
-    font-family: Tahoma, Geneva, sans-serif;
-    font-size: 2.5em;
-    letter-spacing: 2px;
-    word-spacing: 2px;
-    color: #ffffff;
-    font-weight: bold;
-    text-decoration: none;
-    font-style: normal;
-    font-variant: normal;
-    text-transform: none;
-}
-</style>
-
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/12080533?v=4" width=60 height=60> 
-<br>
-<span id="demoFont">&nbsp;VjumpKunG Github</span>
-<h2>About me</h2>
+
+# VjumpKunG Github
+
+## About me
 
 An ordinary programmer who likes to learn new things.
 
