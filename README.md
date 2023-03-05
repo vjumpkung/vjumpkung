@@ -13,7 +13,7 @@ An ordinary programmer who likes to learn new things.
 
 view count
 
-![:name](https://moe-counter.vjump21848.repl.co/get/@vjumpkung)
+![:name](http://vjump.my.to:3000/get/@vjumpkung)
 
 </div>
 
