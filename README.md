@@ -29,6 +29,8 @@ In present, I am focusing at the backend developer (mostly REST, RESTful).
 - [GenEdCreditCount](https://github.com/Vjumpkung/GenEdCreditCount)
 - [HeroCartoonWebsite](https://github.com/Vjumpkung/HeroCartoonWebsite)
 - [MeeOrder](https://github.com/meeorder/meeorder-backend) (Group Project)
+- [Air Quality Report](https://github.com/Vjumpkung/air-quality-report-backend) (Group Project)
+- [Decryptor Game](https://github.com/Vjumpkung/decryptor_game)
 - [Running-Game](https://github.com/Vjumpkung/Running-Game)
 - [Running-Game-Server](https://github.com/Vjumpkung/Running-Game-Server)
 
