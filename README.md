@@ -2,11 +2,11 @@
 
 ## About me
 
-<img src="img/_2186468d-6d78-4f3d-8ddb-c791db63d0da.jpg" width=384 height=384 alt="AI generated Content">
+<img src="img/_2186468d-6d78-4f3d-8ddb-c791db63d0da.jpg" width=256 height=256 alt="AI generated Content">
 
 I could reach the sky even though no one expected it of me.
 
-In present, I am focusing at the backend developer (mostly REST, RESTful). Looking for internship (1 April 2024 to 31 May 2024).
+In present, I am focusing at the backend developer (mostly REST, RESTful).
 
 ## My skill
 **Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
