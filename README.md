@@ -6,18 +6,18 @@
 
 I could reach the sky even though no one expected it of me.
 
-In present, I am focusing at the backend developer (mostly REST, RESTful).
+In present, I am focusing at the backend developer (mostly REST, RESTful) and try to study a frontend framework for becoming full-stack developer.
 
 ## My skill
 **Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
 
-**Backend Framework** : NestJS, FastAPI
+**Framework** : NestJS, FastAPI, Next.js
 
 **Database** : MongoDB
 
-**Tools** : Prettier, black, Git, ClickUp, Postman, Vercel
+**Tools** : Prettier, black (python code formatter), Git, GitHub, ClickUp, Postman, Vercel
 
-**Others** :  GCP compute engine, VPS, Linux Admin, NGINX, certbot
+**Others** :  GCP compute engine, Linux Admin, NGINX
 
 ## Currently Working Project
 
@@ -38,6 +38,7 @@ In present, I am focusing at the backend developer (mostly REST, RESTful).
 
 ## Some Archive code from studying in university
 
+- [01204332-OS](https://github.com/Vjumpkung/markdown_summary)
 - [01204223-Practicum](https://github.com/Vjumpkung/practicum_final)
 - [01204214-Problem-Solving](https://github.com/Vjumpkung/01204214-Problem-Solving)
 - [01204212-Abstract-Data-Types](https://github.com/Vjumpkung/Abstract-Data-Types)
