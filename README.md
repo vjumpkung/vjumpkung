@@ -6,7 +6,7 @@
 
 I could reach the sky even though no one expected it of me.
 
-In present, I am focusing at the backend developer (mostly REST, RESTful) and try to study a frontend framework for becoming full-stack developer.
+In present, I am focusing at the backend developer and try to study a frontend framework for becoming full-stack developer.
 
 ## My skill
 **Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
