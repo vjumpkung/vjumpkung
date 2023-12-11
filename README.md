@@ -21,6 +21,8 @@ In present, I am focusing at the backend developer (mostly REST, RESTful).
 
 ## Currently Working Project
 
+- [bitly-clone-frontend](https://github.com/Vjumpkung/bitly-clone-frontend)
+- [bitly-clone-backend](https://github.com/Vjumpkung/bitly-clone-backend)
 - [GenEdCreditCountBackend](https://github.com/Vjumpkung/GenEdCreditCountBackend)
 - [vjumpkung-portfolio-website](https://github.com/Vjumpkung/vjumpkung-website)
 
