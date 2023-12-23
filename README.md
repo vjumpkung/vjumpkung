@@ -9,25 +9,26 @@ I could reach the sky even though no one expected it of me.
 In present, I am focusing at the backend developer and try to study a frontend framework for becoming full-stack developer.
 
 ## My skill
-**Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
+**Programming Language** : TypeScript, JavaScript, Python, <s>C, C++, C#</s>
 
-**Framework** : NestJS, FastAPI, Next.js
+**Framework** : NestJS, FastAPI, Next.js, React, <s>Flask</s>
 
 **Database** : MongoDB
 
-**Tools** : Prettier, black (python code formatter), Git, GitHub, ClickUp, Postman, Vercel
+**Tools** : Prettier, black (python code formatter), Git, GitHub, <s>ClickUp</s>, Postman, Vercel, onrender
 
-**Others** :  GCP compute engine, Linux Admin, NGINX
+**Others** :  <s>GCP compute engine</s>, Linux Admin, NGINX, Digitalocean
 
 ## Currently Working Project
 
-- [bitly-clone-frontend](https://github.com/Vjumpkung/bitly-clone-frontend)
-- [bitly-clone-backend](https://github.com/Vjumpkung/bitly-clone-backend)
 - [GenEdCreditCountBackend](https://github.com/Vjumpkung/GenEdCreditCountBackend)
-- [vjumpkung-portfolio-website](https://github.com/Vjumpkung/vjumpkung-website)
+- [gened-credit-count-frontend](https://gened-credit-count-frontend.vercel.app/) (repo still private :P)
 
 ## Finished Project 
 
+- [vjumpkung-portfolio-website](https://github.com/Vjumpkung/vjumpkung-website)
+- [bitly-clone-frontend](https://github.com/Vjumpkung/bitly-clone-frontend)
+- [bitly-clone-backend](https://github.com/Vjumpkung/bitly-clone-backend)
 - [GenEdCreditCount](https://github.com/Vjumpkung/GenEdCreditCount)
 - [MeeOrder](https://github.com/meeorder/meeorder-backend) (Group Project)
 - [Air Quality Report](https://github.com/Vjumpkung/air-quality-report-backend) (Group Project)
