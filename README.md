@@ -21,7 +21,7 @@ In present, I am focusing at the backend developer and try to study a frontend f
 
 ## Currently Working Project
 
-- [GenEdCreditCountBackend](https://github.com/Vjumpkung/GenEdCreditCountBackend)
+- [gened-credit-count-backend](https://github.com/Vjumpkung/gened-credit-count-backend)
 - [gened-credit-count-frontend](https://gened-credit-count-frontend.vercel.app/) (repo still private :P)
 
 ## Finished Project 
