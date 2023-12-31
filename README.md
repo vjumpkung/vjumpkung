@@ -21,11 +21,12 @@ In present, I am focusing at the backend developer and try to study a frontend f
 
 ## Currently Working Project
 
-- [gened-credit-count-backend](https://github.com/Vjumpkung/gened-credit-count-backend)
-- [gened-credit-count-frontend](https://gened-credit-count-frontend.vercel.app/) (repo still private :P)
+- Basic Shopping Website Backend
 
 ## Finished Project 
 
+- [gened-credit-count-backend](https://github.com/Vjumpkung/gened-credit-count-backend)
+- [gened-credit-count-frontend](https://github.com/Vjumpkung/gened-credit-count-frontend)
 - [vjumpkung-portfolio-website](https://github.com/Vjumpkung/vjumpkung-website)
 - [bitly-clone-frontend](https://github.com/Vjumpkung/bitly-clone-frontend)
 - [bitly-clone-backend](https://github.com/Vjumpkung/bitly-clone-backend)
