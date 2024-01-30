@@ -8,6 +8,14 @@ I could reach the sky even though no one expected it of me.
 
 In present, I am focusing at the backend developer and try to study a frontend framework for becoming full-stack developer.
 
+## 2024 Goals
+
+- SQL
+- golang + gin/gfiber
+- java + spring boot
+- MQTT
+- socket (socket.io)
+
 ## My skill
 **Programming Language** : TypeScript, JavaScript, Python, <s>C, C++, C#</s>
 
@@ -21,7 +29,8 @@ In present, I am focusing at the backend developer and try to study a frontend f
 
 ## Currently Working Project
 
-- Basic Shopping Website Backend
+- [Basic-Shopping-Website-Frontend](https://github.com/Vjumpkung/basic-shopping-website-frontend/)
+- [Basic-Shopping-Website-Backend](https://github.com/Vjumpkung/basic-shopping-website-backend/)
 
 ## Finished Project 
 
@@ -51,9 +60,3 @@ In present, I am focusing at the backend developer and try to study a frontend f
 [![VjumpKunG GitHub stats](https://github-readme-stats.vercel.app/api?username=vjumpkung)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vjumpkung)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
-
-<a href="https://www.facebook.com/chanrich.pisitjing"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width=48/></a>
-<a href="https://line.me/ti/p/0MLKWvAmSQ"><img src="https://cdn-icons-png.flaticon.com/512/124/124027.png" width=48/></a>
-<a href="https://www.linkedin.com/in/chanrichpisitjing/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width=48></a>
