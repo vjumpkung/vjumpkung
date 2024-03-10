@@ -28,12 +28,14 @@ In present, I am focusing at the backend developer and try to study a frontend f
 **Others** :  <s>GCP compute engine</s>, Linux Admin, NGINX, Digitalocean
 
 ## Currently Working Project
-
-- [Basic-Shopping-Website-Frontend](https://github.com/Vjumpkung/basic-shopping-website-frontend/)
-- [Basic-Shopping-Website-Backend](https://github.com/Vjumpkung/basic-shopping-website-backend/)
-
+- \-
 ## Finished Project 
 
+- [Air-Quality-Report-Frontend-Remake](https://github.com/Vjumpkung/Air-Quality-Report-Frontend-Remake)
+- [URL-shortener](https://github.com/Vjumpkung/vjump-short-url)
+- [Pokedex-Simple-Search](https://github.com/Vjumpkung/simple-pokedex-vite-react)
+- [Basic-Shopping-Website-Frontend](https://github.com/Vjumpkung/basic-shopping-website-frontend/)
+- [Basic-Shopping-Website-Backend](https://github.com/Vjumpkung/basic-shopping-website-backend/)
 - [gened-credit-count-backend](https://github.com/Vjumpkung/gened-credit-count-backend)
 - [gened-credit-count-frontend](https://github.com/Vjumpkung/gened-credit-count-frontend)
 - [vjumpkung-portfolio-website](https://github.com/Vjumpkung/vjumpkung-website)
