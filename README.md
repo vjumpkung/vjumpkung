@@ -1,13 +1,13 @@
-# Chanrich Pisitjing Github Profile
+# Chanrich Pisitjing (vjump)
 
-- Currently Internship (2 months)
+- Currently Internship for 2 months
 
 ## Portfolio Website
 - [website](https://vjumpkung.github.io/)
 
 ## 2024 Goals
 
-- C# dotnet, 
+- C# dotnet
 - SQL (PostgreSQL)
 - golang + gin/gfiber
 - MQTT (finished)
@@ -16,11 +16,11 @@
 ## Skills
 **Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
 
-**Framework** : NestJS, FastAPI, Next.js, React, ASP>NET
+**Framework** : NestJS, FastAPI, Next.js, React, ASP.NET
 
-**Database** : MongoDB
+**Database** : MongoDB, PostgreSQL
 
-**Tools** : Prettier, black (python code formatter), Git, GitHub, Postman, Vercel, onrender
+**Tools** : Git, GitHub, Postman, Vercel, onrender
 
 **Others** : Linux Admin, NGINX, Digitalocean
 
@@ -52,3 +52,7 @@
 - [01204214-Problem-Solving](https://github.com/Vjumpkung/01204214-Problem-Solving)
 - [01204212-Abstract-Data-Types](https://github.com/Vjumpkung/Abstract-Data-Types)
 - [01204111-Computer-and-Programming](https://github.com/Vjumpkung/01204111)
+
+## Contacts
+
+- [LinkedIn](https://www.linkedin.com/in/chanrichpisitjing/) 
