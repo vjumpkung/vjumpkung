@@ -1,17 +1,18 @@
 # Chanrich Pisitjing (vjump)
 
-- Currently Internship for 2 months
+- Currently Internship for 2 months (1 APR - 31 MAY)
 
 ## Portfolio Website
 - [website](https://vjumpkung.github.io/)
 
 ## 2024 Goals
 
-- C# dotnet
-- SQL (PostgreSQL)
-- golang + gin/gfiber
-- MQTT (finished)
-- socket (socket.io)
+- [x] C# dotnet ASP.NET
+- [x] SQL
+- [ ] golang + gin/gfiber
+- [x] MQTT (finished)
+- [ ] websocket
+- [ ] docker
 
 ## Skills
 **Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
@@ -20,20 +21,21 @@
 
 **Database** : MongoDB, PostgreSQL
 
-**Tools** : Git, GitHub, Postman, Vercel, onrender
+**Tools** : Git, GitHub, Postman, Vercel
 
-**Others** : Linux Admin, NGINX, Digitalocean
+**Others** : Linux Command, NGINX, Digitalocean
 
 ## Projects
 
-- [Air-Quality-Report-Frontend-Remake](https://github.com/Vjumpkung/Air-Quality-Report-Frontend-Remake)
-- [URL-shortener](https://github.com/Vjumpkung/vjump-short-url)
+- [simple-image-manager-api](https://github.com/vjumpkung/simple_image_manager_api)
+- [Air-Quality-Report-Frontend-Remake](https://github.com/Vjumpkung/Air-Quality-Report-Frontend-Remake) <-- improve version of Air Quality Report
+- [URL-shortener](https://github.com/Vjumpkung/vjump-short-url) <-- improve version of bitly-clone
 - [Pokedex-Simple-Search](https://github.com/Vjumpkung/simple-pokedex-vite-react)
 - [Basic-Shopping-Website-Frontend](https://github.com/Vjumpkung/basic-shopping-website-frontend/)
 - [Basic-Shopping-Website-Backend](https://github.com/Vjumpkung/basic-shopping-website-backend/)
 - [gened-credit-count-backend](https://github.com/Vjumpkung/gened-credit-count-backend)
 - [gened-credit-count-frontend](https://github.com/Vjumpkung/gened-credit-count-frontend)
-- [vjumpkung-portfolio-website](https://github.com/Vjumpkung/vjumpkung-website)
+- [vjumpkung-portfolio-website](https://github.com/vjumpkung/vjumpkung.github.io)
 - [bitly-clone-frontend](https://github.com/Vjumpkung/bitly-clone-frontend)
 - [bitly-clone-backend](https://github.com/Vjumpkung/bitly-clone-backend)
 - [GenEdCreditCount](https://github.com/Vjumpkung/GenEdCreditCount)
@@ -44,7 +46,7 @@
 - [Running-Game-Server](https://github.com/Vjumpkung/Running-Game-Server)
 
 
-## Some Learning Elements from studying in university
+## Some Learning Trace and Projects from studying in university
 
 - [01204322-Term-Project-Train-Stop](https://github.com/Vjumpkung/01204322-Term-Project-Train-Stop) (Group Project)
 - [01204332-OS](https://github.com/Vjumpkung/markdown_summary)
