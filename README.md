@@ -1,6 +1,6 @@
 # Chanrich Pisitjing (vjump)
 
-- Currently Internship for 2 months (1 APR - 31 MAY)
+- Finishing Internship !!!! 
 
 ## Portfolio Website
 - [website](https://vjumpkung.github.io/)
