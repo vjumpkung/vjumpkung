@@ -1,6 +1,6 @@
 # Chanrich Pisitjing (vjump)
 
-- Finishing Internship !!!! 
+![Asset 2](https://github.com/user-attachments/assets/b4002e1a-a8e3-4313-8d51-9ce8a9d75e34)
 
 ## Portfolio Website
 - [website](https://vjumpkung.github.io/)
