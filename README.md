@@ -11,8 +11,9 @@
 - [x] SQL
 - [ ] golang + gin/gfiber
 - [x] MQTT (finished)
-- [ ] websocket
-- [ ] docker
+- [x] SSE
+- [x] docker
+- [ ] LoRA Training (in diffusion model)
 
 ## Skills
 **Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
