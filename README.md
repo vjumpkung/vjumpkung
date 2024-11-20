@@ -10,8 +10,9 @@
 - [x] C# dotnet ASP.NET
 - [x] SQL
 - [ ] golang + gin/gfiber
-- [x] MQTT (finished)
+- [x] MQTT
 - [x] SSE
+- [ ] WebSocket
 - [x] docker
 - [x] Low-Rank Adaptation for Latent Diffusion Model
 
@@ -50,6 +51,7 @@
 
 ## Some Learning Trace and Projects from studying in university
 
+- [01204464-Data-Mining](https://github.com/vjumpkung/01204465-Data-Mining)
 - [01204322-Term-Project-Train-Stop](https://github.com/Vjumpkung/01204322-Term-Project-Train-Stop) (Group Project)
 - [01204332-OS](https://github.com/Vjumpkung/markdown_summary)
 - [01204223-Practicum](https://github.com/Vjumpkung/practicum_final)
