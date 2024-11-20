@@ -13,7 +13,7 @@
 - [x] MQTT (finished)
 - [x] SSE
 - [x] docker
-- [ ] LoRA Training (in diffusion model)
+- [x] Low-Rank Adaptation for Latent Diffusion Model
 
 ## Skills
 **Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
@@ -28,6 +28,7 @@
 
 ## Projects
 
+- [SWU-Loykrathong-Online](https://swu-loykrathong.online/)
 - [simple-image-manager-api](https://github.com/vjumpkung/simple_image_manager_api)
 - [Air-Quality-Report-Frontend-Remake](https://github.com/Vjumpkung/Air-Quality-Report-Frontend-Remake) <-- improve version of Air Quality Report
 - [URL-shortener](https://github.com/Vjumpkung/vjump-short-url) <-- improve version of bitly-clone
