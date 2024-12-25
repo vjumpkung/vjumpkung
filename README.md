@@ -12,7 +12,7 @@
 - [ ] golang + gin/gfiber
 - [x] MQTT
 - [x] SSE
-- [ ] WebSocket
+- [x] WebSocket
 - [x] docker
 - [x] Low-Rank Adaptation for Latent Diffusion Model
 
