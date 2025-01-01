@@ -5,17 +5,6 @@
 ## Portfolio Website
 - [website](https://vjumpkung.github.io/)
 
-## 2024 Goals
-
-- [x] C# dotnet ASP.NET
-- [x] SQL
-- [ ] golang + gin/gfiber
-- [x] MQTT
-- [x] SSE
-- [x] WebSocket
-- [x] docker
-- [x] Low-Rank Adaptation for Latent Diffusion Model
-
 ## Skills
 **Programming Language** : TypeScript, JavaScript, Python, C, C++, C#
 
