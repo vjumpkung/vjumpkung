@@ -44,7 +44,7 @@
 - [01204322-Term-Project-Train-Stop](https://github.com/Vjumpkung/01204322-Term-Project-Train-Stop) (Group Project)
 - [01204332-OS](https://github.com/Vjumpkung/markdown_summary)
 - [01204223-Practicum](https://github.com/Vjumpkung/practicum_final)
-- ~~[01204214-Problem-Solving](https://github.com/Vjumpkung/01204214-Problem-Solving)~~ Temponary Removed until remove Problem.
+- [01204214-Problem-Solving](https://github.com/Vjumpkung/01204214-Problem-Solving)
 - [01204212-Abstract-Data-Types](https://github.com/Vjumpkung/Abstract-Data-Types)
 - [01204111-Computer-and-Programming](https://github.com/Vjumpkung/01204111)
 
