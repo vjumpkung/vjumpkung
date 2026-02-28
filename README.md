@@ -1,50 +1,7 @@
 <center><img src="https://vjump.dev/static/images/uwu-logo.png" width="450px"></center>
 
 ## Personal Website
-- [website]([https://vjumpkung.github.io/](https://vjump.dev/))
-
-## Skills
-
-### IDE or editor
-
-- Visual Studio Code
-
-### Frontend
-
-- **Language** : Typescript, python, Javascript
-- **Runtime** : nodejs, bun
-- **Framework** : Next.js + Typescript, gradio, tkinter
-- **CSS Framework** : Tailwind css + shadcn, MUI, NextUI (deprecated one)
-- **Stage Management** : Zustand
-- **Data Fetch Management** : Tanstack, SWR
-- **HTTP Client** : Axios, OpenAPI
-
-### Backend
-
-- **Language** : python, Typescript, Javascript
-- **Runtime** : nodejs, bun
-- **Framework** : FastAPI, NestJS, NextJS API route
-
-### Database
-
-- **SQL** : PostgreSQL
-- **Non-SQL** : mongoDB, firestore
-
-### DevOps Tools
-
-- GitHub Actions, Vercel, Docker (+ Compose)
-
-### AI Tools
-
-- Claude Code
-
-### AI Inference Tools
-
-- **AI Image + Video** : ComfyUI, diffusers, transformers
-
-### AI Training 
-
-- **AI Image** : sd-scripts, musubi-tuner
+- https://vjump.dev/
 
 ## Projects
 
